@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "main": {
+      "title": "Genuine Inovative Superb",
+      "subtitle": "We are more than a industry and here is why."
+    },
+    "about-us": {
+      "title": "About Us",
+      "content": "In 2016, Global Industrial Solutions was founded with the mission to facilitate seamless outsourcing to Eastern Europe. Our team comprises over 100 talented and driven individuals who are devoted to your triumph. We believe that our success is intertwined with yours, which is why we have established branches in Montenegro, Switzerland, and Serbia to offer outstanding services directly to our clients. Rest assured that we are committed to providing exceptional services that meet and exceed your expectations.",
+      "more": "FIND OUT MORE"
+    },
+    "services": {
+      "title": "Our Services",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat euismod.",
+      "more": "FIND ALL SERVICES"
+    },
+    "custom-solution": {
+      "title": "Custom Solution",
+      "content": "We recognize at GIS that each project is unique and necessitates an individualized approach to accomplish optimal outcomes. That is the reason we provide a diverse range of engineering and design services to assist you in bringing your ideas to life.",
+      "more": "FIND OUT MORE"
+    },
+    "get-in-touch": "GETINTOUCH",
+    "testimonials": {
+      "title": "Some words about Our Work written down by Our Friends",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis  ea commodo consequat.",
+      "name": "Joh Smith / CEO, Metalcraft"
+    },
+    "footer": {
+      "title": "Lets make some great projects!"
+    }
+  }
+}

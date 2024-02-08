@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Akira Expanded Demo */
+@font-face {
+  font-family: "AkiraExpandedDemo";
+  src: local("AkiraExpandedDemo"),
+    url("/fonts/Akira Expanded Demo.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* NouvelR Bold */
+@font-face {
+  font-family: "NouvelRBold";
+  src: local("NouvelRBold"), url("/fonts/NouvelRBold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* NouvelR Book */
+@font-face {
+  font-family: "NouvelRBook";
+  src: local("NouvelRBook"), url("/fonts/NouvelRBook.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Repeat the @font-face blocks for other font files (Extrabold, Light, Regular, Semibold) */
+/* ... */
+
+/* NouvelR Extrabold */
+@font-face {
+  font-family: "NouvelRExtrabold";
+  src: local("NouvelRExtrabold"),
+    url("/fonts/NouvelRExtrabold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* NouvelR Light */
+@font-face {
+  font-family: "NouvelRLight";
+  src: local("NouvelRLight"), url("/fonts/NouvelRLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* NouvelR Regular */
+@font-face {
+  font-family: "NouvelRRegular";
+  src: local("NouvelRRegular"),
+    url("/fonts/NouvelRRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* NouvelR Semibold */
+@font-face {
+  font-family: "NouvelRSemibold";
+  src: local("NouvelRSemibold"),
+    url("/fonts/NouvelRSemibold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}

@@ -1,0 +1,17 @@
+<svg width="70" height="41" viewBox="0 0 70 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SWITZERLAND">
+<g id="Clip path group">
+<mask id="mask0_19_10373" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="70" height="41">
+<g id="clippath">
+<path id="Vector" d="M70 0H0V40.835H70V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_19_10373)">
+<g id="Group">
+<path id="Vector_2" d="M64.3193 0H5.68068C2.54333 0 0 2.54333 0 5.68068V35.1544C0 38.2917 2.54333 40.835 5.68068 40.835H64.3193C67.4567 40.835 70 38.2917 70 35.1544V5.68068C70 2.54333 67.4567 0 64.3193 0Z" fill="#C6001E"/>
+<path id="Vector_3" d="M22.2493 16.5892H31.1717V7.65656H38.8283V16.5892H47.7609V24.2458H38.8283V33.1682H31.1717V24.2458H22.2493V16.5892Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
